@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+AthenaUsageExtractor/__init__.py
+athena_usage_metrics_extractor.egg-info/PKG-INFO
+athena_usage_metrics_extractor.egg-info/SOURCES.txt
+athena_usage_metrics_extractor.egg-info/dependency_links.txt
+athena_usage_metrics_extractor.egg-info/requires.txt
+athena_usage_metrics_extractor.egg-info/top_level.txt
