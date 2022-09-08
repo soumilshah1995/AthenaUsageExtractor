@@ -6,6 +6,8 @@
         
 * Athena usage is simple python library that allows you to extract all usage information 
 
+![image](https://user-images.githubusercontent.com/39345855/189194783-6d607f5b-11af-45e4-882a-fbbd117165dc.png)
+
 
 ## Installation
 ac
