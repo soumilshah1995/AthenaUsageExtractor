@@ -8,18 +8,6 @@
 
 
 ## Installation
-
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]
-
-
-# AthenaUsageExtractor
-
-* Athena helps you analyze unstructured, semi-structured, and structured data stored in Amazon S3. Examples include CSV, JSON, or columnar data formats such as Apache Parquet and Apache ORC. You can use Athena to run ad-hoc queries using ANSI SQL, without the need to aggregate or load the data into Athena.
-    
-* Athena usage is simple python library that allows you to extract all usage information 
-    
-
-## Installation
 ac
 ```bash
 pip install athena-usage-metrics-extractor
